@@ -2,15 +2,15 @@
 
 > Production AI engineering: RAG pipelines, multi-agent workflows, and LLM infrastructure for startups
 
-We build AI systems that work in production — not just in notebooks.
+We build AI systems that work in production, not just in notebooks.
 
 ---
 
 ## What We Build
 
-- **RAG pipelines** — hybrid search, re-ranking, source citation, evaluation harnesses
-- **Multi-agent systems** — supervisor routing, parallel execution, error recovery, state persistence
-- **LLM infrastructure** — cost controls, rate limiting, semantic caching, circuit breakers
+- **RAG pipelines**: hybrid search, re-ranking, source citation, evaluation harnesses
+- **Multi-agent systems**: supervisor routing, parallel execution, error recovery, state persistence
+- **LLM infrastructure**: cost controls, rate limiting, semantic caching, circuit breakers
 
 ---
 
@@ -28,5 +28,5 @@ We build AI systems that work in production — not just in notebooks.
 
 **Stack:** Python · FastAPI · PostgreSQL/pgvector · OpenAI · Anthropic · Docker
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Accelate-blue?logo=linkedin)](https://linkedin.com/company/accelate)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Accelate-blue?logo=linkedin)](https://www.linkedin.com/company/accelate-ai)
 
