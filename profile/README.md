@@ -1,4 +1,4 @@
-# Accelate — Production AI Engineering
+# Accelate | Production AI Engineering
 
 > Production AI engineering: RAG pipelines, multi-agent workflows, and LLM infrastructure for startups
 
